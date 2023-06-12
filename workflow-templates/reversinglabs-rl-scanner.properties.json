@@ -1,0 +1,10 @@
+{
+    "name": "ReversingLabs RL-SECURE CODE SCANNER WORKFLOW",
+    "description": "apply the ReversingLabs Rl-Scanner to a build artifact",
+    "creator": "Maarten Boot",
+    "iconName": "reversinglabs-secure-software-logo",
+    "categories": [
+        "Security",
+        "Code Scanning"
+    ]
+}
