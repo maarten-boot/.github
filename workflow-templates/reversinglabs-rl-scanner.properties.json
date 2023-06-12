@@ -4,7 +4,7 @@
     "creator": "Maarten Boot",
     "iconName": "rl-com-logo-black",
     "categories": [
-        "Security",
-        "Code Scanning"
+        "Code Scanning",
+        "Security"
     ]
 }
